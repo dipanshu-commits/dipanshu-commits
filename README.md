@@ -16,7 +16,7 @@ Python · FastAPI · React · JavaScript · Node.js · Electron · AI/ML
 
 ## Interests
 
-Physics · Mathematics · Story Writing
+Physics · Mathematics · Programming
 
 ---
 

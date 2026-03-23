@@ -1,23 +1,16 @@
 # Dipanshu
 
-17 · Student · India
+17M · Student · India
 
-I build full stack applications with AI at the core. Not the kind that call an API — the kind that run locally, privately, and actually work.
+I'm learning how to build things. Started with the basics, now working towards full stack applications with AI integration. Still early, but serious about it.
 
-Currently focused on building advanced AI-integrated projects before I start engineering. Each one solves a real problem.
-
----
-
-## Stack
-
-Python · FastAPI · React · JavaScript · Node.js · Electron · Ollama
+Not waiting for college to start.
 
 ---
 
-## Projects
+## Currently Learning
 
-**[local-ai-chat](https://github.com/dipanshu-commits/local-ai-chat)**
-A fully private AI chat desktop app. Runs a local LLM on your machine — no cloud, no subscriptions, no data leaving your PC. Built with React, FastAPI and Ollama, packaged as a Windows desktop app via Electron.
+Python · FastAPI · React · JavaScript · Node.js · Electron · AI/ML
 
 ---
 
@@ -27,10 +20,18 @@ Physics · Mathematics · Story Writing
 
 ---
 
+## Goals
+
+- Build 3—4 advanced AI integrated projects before college
+- Understand how things work, not just how to use them
+- Write code that solves real problems
+
+---
+
 ## Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dipanshu-commits&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=999999)
 
 ---
 
-*Building since 2026. More projects coming.*
+*Started in 2026. Long way to go.*

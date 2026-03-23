@@ -1,4 +1,4 @@
-# Dipanshu
+# Dipanshu 
 
 17M · Student · India
 
@@ -22,7 +22,7 @@ Physics · Mathematics · Story Writing
 
 ## Goals
 
-- Build 3—4 advanced AI integrated projects before college
+- learn programming languages
 - Understand how things work, not just how to use them
 - Write code that solves real problems
 

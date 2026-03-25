@@ -2,10 +2,12 @@
 
 17M · Student · India
 
-I'm learning how to build things. Started with the basics, now working towards full stack applications with AI integration. Still early, but serious about it.
-
-Not waiting for college to start.
-
+I'm learning how to build things.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ---
 
 ## Currently Learning

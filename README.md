@@ -19,7 +19,7 @@ Not waiting for college to start.
 
 ## Interests
 
-Physics · Mathematics · Story Writing
+Physics · Mathematics · Python · Story Writting
 
 ---
 

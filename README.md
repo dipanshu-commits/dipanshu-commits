@@ -10,7 +10,6 @@ Not waiting for college to start.
 ## Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-E67E22?style=flat-square&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=flat-square&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-2E86C1?style=flat-square&logoColor=white)

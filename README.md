@@ -3,8 +3,6 @@
 
 I'm learning how to build things. Started with the basics, now working towards full stack applications with AI integration. Still early, but serious about it.
 
-Not waiting for college to start.
-
 ---
 
 ## Currently Learning

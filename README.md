@@ -1,4 +1,4 @@
-![banner](https://github.com/dipanshu-commits/dipanshu-commits/raw/main/banner.jpg)
+![banner](https://github.com/dipanshu-commits/dipanshu-commits/raw/main/banner.png)
 
 <br>
 
